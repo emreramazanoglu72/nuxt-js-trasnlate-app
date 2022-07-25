@@ -8,3 +8,4 @@ const TrasnlateRequest = async (text,tt,to) => {
 }
 
 export default TrasnlateRequest;
+
